@@ -1,0 +1,18 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "com.pa.sleepykid.Vision_To_Radar",
+    "display_name" : "Blips in the dark",
+    "description" : "Units instead of vision have radar, except for scouts and the commanders"
+    "date": "2014/11/07",
+    "category": [
+      "balance"
+    ],
+    "build": "74484",
+    "priority": 100,
+    "forum": "https://forums.uberent.com/threads/rel-blips-in-the-dark.65856",
+    "icon": "http://i.imgur.com/NRKsBFm.png",
+    "author" : "sleepykid",
+    "version" : "1.0",
+    "signature" : "(not yet implemented)"
+}
