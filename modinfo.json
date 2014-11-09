@@ -2,7 +2,7 @@
     "context": "server",
     "identifier": "com.pa.sleepykid.Vision_To_Radar",
     "display_name": "Blips in the dark",
-    "description": "Units instead of vision have radar except for scouts and the commanders",
+    "description": "Game mode where you won't know what is attacking you until you get too close",
     "date": "2014/11/08",
     "category": [
       "balance"
@@ -11,7 +11,7 @@
     "priority": 100,
     "forum": "https://forums.uberent.com/threads/rel-blips-in-the-dark.65856/",
     "author": "sleepykid12",
-    "version": "1.0.2",
+    "version": "1.1",
     "icon": "http://i.imgur.com/NRKsBFm.png",
     "author": "sleepykid12",
     "signature": "not yet implemented",
